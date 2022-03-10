@@ -130,4 +130,6 @@ dmypy.json
 
 .DS_Store
 
+#adding config file
 config.py
+random_numbers.ipynb
